@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8ea49aa2-b377-41b8-b8d0-f1928902527d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/EngData_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fifth_task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First_task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fourth_task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Second_task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Six_task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Third_task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/fifth_task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/first_task.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/fourth_task.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/second_task.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/third_task.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fifth_task_result.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_task_result.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_task_result_variable.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fourth_task_modified_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fourth_task_results.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second_task_result.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/six_task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third_task_result.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2okGoFWjm0uR1sAnQC2PeFIiidB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Fifth_task.executor": "Run",
+    "Python.First_task.executor": "Run",
+    "Python.Fist_task.executor": "Run",
+    "Python.Fourth_task.executor": "Run",
+    "Python.Second_task.executor": "Run",
+    "Python.Six_task.executor": "Run",
+    "Python.Third_task.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/novik/PycharmProjects/EngData_1/Data",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\novik\PycharmProjects\EngData_1\Data" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="First_task" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="EngData_1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\novik\PycharmProjects\EngData_1\First_task.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.First_task" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d7ad00fb9fc3-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23726.102" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ea49aa2-b377-41b8-b8d0-f1928902527d" name="Changes" comment="" />
+      <created>1731406332944</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731406332944</updated>
+    </task>
+    <servers />
+  </component>
+</project>
