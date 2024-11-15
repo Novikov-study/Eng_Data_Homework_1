@@ -22,7 +22,7 @@ def count_consonants(words):
 
     for word in words:
         for char in word:
-            if char.isalpha():  # Учитываем только буквы
+            if char.isalpha():
                 total_letters += 1
                 if char in consonants:
                     total_consonants += 1
